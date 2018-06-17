@@ -17,7 +17,7 @@ import org.springframework.context.annotation.Import
 import java.time.LocalDate
 
 @SpringBootApplication
-@Import({ Klasa.class })
+@Import( Klasa::class )
 open class Application{
 
     @Bean
