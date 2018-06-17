@@ -1,0 +1,5 @@
+rootProject.name = 'MAS5'
+include 'src'
+include 'name'
+include 'GUI'
+
